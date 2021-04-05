@@ -1,2 +1,2 @@
 # MyBloger-
-A test Django Application based on bloger.
+A test Django Application based on bloger app.
